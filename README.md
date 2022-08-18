@@ -1,5 +1,5 @@
 # SerebiiScrapeData
-Some code used to scrape the data for pokemon from the serebii.com website and then do analysis.
+Some code used to scrape the data for pokemon from the serebii.com website and then do analysis. The highest quality code and data is available just for generation 5 in the folder Pokemon_BlackWhite.
 
 # Dataframes
 
