@@ -1,6 +1,10 @@
 # SerebiiScrapeData
 Some code used to scrape the data for pokemon from the serebii.com website and then do analysis. The highest quality code and data is available just for generation 5 in the folder Pokemon_BlackWhite.
 
+# Tool
+
+The Game State folder now contains enough code, particularly the single_battle_class.ipynb that can be used for setting up a pokemon battle arena with two teams and do the calcs of the teams to work out damage done and speed differences between pokemon of the different teams.
+
 # Dataframes
 
 ## pokemon.pickle
