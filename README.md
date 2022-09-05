@@ -1,5 +1,5 @@
 # SerebiiScrapeData and Battle Simulation Tool
-Some code used to scrape the data for pokemon from the serebii.com website and then do analysis. The highest quality code and data is available just for generation 5 in the folder Pokemon_BlackWhite. The Game_State folder now contains enough code, particularly the single_battle_class.ipynb that can be used for setting up a pokemon battle arena with two teams and do the calcs of the teams to work out damage done and speed differences between pokemon of the different teams.
+Some code used to scrape the data for pokemon from the serebii.com website and then do analysis. The highest quality code and data is available just for generation 5 in the folder Pokemon_BlackWhite.
 
 # Dataframes
 
@@ -17,13 +17,13 @@ MOVE	TYPE	CATEGORY	PP	POWER	ACCURACY	FLAVOUR
 
 # Scraper Codes
 
-## Pokedex_Scrape.ipynb
+## Scrape_Pokedex.ipynb
 Used to acquire pokemon.pickle. This scrapes Serebii.com to get all the pokemon information.
 
-## All_Moves_Scrape.ipynb
+## Scrape_All_Moves.ipynb
 Used to acquire moves.pickle. This scrapes Serebii.com to get all the pokemon moves.
 
-## Single_Pokemon_Move_Scrape.ipynb
+## Scrape_Single_Pokemon_Move.ipynb
 An incomplete code which can scrape all the moves from one pokemon. Seems to work for around 170 pokemon in the pokedex but dependent on where the starting table appears on the webpage it also throws errors.
 Working: e.g. Charizard, Bulbasaur, Sealeo
 Not Working: e.g. Steelix, Caterpie, Venusaur
